@@ -1,0 +1,15 @@
+{
+    "email": {
+        "server": "smtp.example.com",
+        "port": "465",
+        "username": "example@example.com",
+        "password": "password"
+    },
+    "server": {
+        "server": "minecraft.example.com",
+        "port": 25565
+    },
+    "recievers": [
+        "example@example.com"
+    ]
+}
